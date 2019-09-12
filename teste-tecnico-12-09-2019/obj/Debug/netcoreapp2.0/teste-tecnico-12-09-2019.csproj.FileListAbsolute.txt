@@ -1,0 +1,11 @@
+C:\Users\souza\source\repos\teste-tecnico-12-09-2019\teste-tecnico-12-09-2019\bin\Debug\netcoreapp2.0\teste-tecnico-12-09-2019.deps.json
+C:\Users\souza\source\repos\teste-tecnico-12-09-2019\teste-tecnico-12-09-2019\bin\Debug\netcoreapp2.0\teste-tecnico-12-09-2019.runtimeconfig.json
+C:\Users\souza\source\repos\teste-tecnico-12-09-2019\teste-tecnico-12-09-2019\bin\Debug\netcoreapp2.0\teste-tecnico-12-09-2019.runtimeconfig.dev.json
+C:\Users\souza\source\repos\teste-tecnico-12-09-2019\teste-tecnico-12-09-2019\bin\Debug\netcoreapp2.0\teste-tecnico-12-09-2019.dll
+C:\Users\souza\source\repos\teste-tecnico-12-09-2019\teste-tecnico-12-09-2019\bin\Debug\netcoreapp2.0\teste-tecnico-12-09-2019.pdb
+C:\Users\souza\source\repos\teste-tecnico-12-09-2019\teste-tecnico-12-09-2019\obj\Debug\netcoreapp2.0\teste-tecnico-12-09-2019.csprojAssemblyReference.cache
+C:\Users\souza\source\repos\teste-tecnico-12-09-2019\teste-tecnico-12-09-2019\obj\Debug\netcoreapp2.0\teste-tecnico-12-09-2019.csproj.CoreCompileInputs.cache
+C:\Users\souza\source\repos\teste-tecnico-12-09-2019\teste-tecnico-12-09-2019\obj\Debug\netcoreapp2.0\teste-tecnico-12-09-2019.AssemblyInfoInputs.cache
+C:\Users\souza\source\repos\teste-tecnico-12-09-2019\teste-tecnico-12-09-2019\obj\Debug\netcoreapp2.0\teste-tecnico-12-09-2019.AssemblyInfo.cs
+C:\Users\souza\source\repos\teste-tecnico-12-09-2019\teste-tecnico-12-09-2019\obj\Debug\netcoreapp2.0\teste-tecnico-12-09-2019.dll
+C:\Users\souza\source\repos\teste-tecnico-12-09-2019\teste-tecnico-12-09-2019\obj\Debug\netcoreapp2.0\teste-tecnico-12-09-2019.pdb
